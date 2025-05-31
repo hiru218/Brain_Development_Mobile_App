@@ -17,15 +17,7 @@ Test your memory, boost your focus, and enjoy a beautifully designed game experi
 
 ---
 
-## 📸 Screenshots
 
-| Welcome Page | Game Screen | Win Screen |
-|--------------|-------------|------------|
-| ![Welcome](screenshots/welcome.png) | ![Game](screenshots/game.png) | ![Win](screenshots/win.png) |
-
-> _(Make sure to add screenshots to a `/screenshots` folder if you want to use this table in your repo.)_
-
----
 
 ## 🛠️ Tech Stack
 
